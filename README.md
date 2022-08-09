@@ -6,4 +6,5 @@ e começar a desenvolver o site da ROCKETCOFFEE.
 
 ## Segundo dia:
 Nessa aula continuamos a construção do nosso projeto e dar uma cara para ele. 
-Conhecendo as vantagens de construir esse projeto em sim, e os pilares pra construir uma jornada na programação. 
+Conhecendo as vantagens de construir esse projeto, mexendo bastante com o css, inserindo novos dados no HTML.
+E aprendendo os pilares pra construir uma jornada na programação. 
