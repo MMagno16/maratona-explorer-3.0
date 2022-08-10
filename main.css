@@ -6,10 +6,9 @@
     padding: 0;
 }
 
-
 body {
-  background: linear-gradient(236.85deg, #eec2db 27.26%, #b2e7ee 96.03%);
-  font-family: "Rajdhani", sans-serif;
+    background:  #FFFFF0;
+    font-family: "Rajdhani", sans-serif;
 }
 
 ul {
@@ -42,7 +41,7 @@ ul {
   }
   
   header h1 span {
-    color: #995000;
+    color: #BC8F8F;
   }
   
   header p {
@@ -58,7 +57,7 @@ ul {
   }
   
   section h2 {
-    background-color: #FED7AA;
+    background-color: #BC8F8F;
     padding: 8px 16px;
     text-align: center;
   
@@ -87,4 +86,3 @@ ul {
     font-size: 14px;
     line-height: 21px;
   }
-  
