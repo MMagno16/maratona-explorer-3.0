@@ -6,9 +6,10 @@
     padding: 0;
 }
 
+
 body {
-    background:  #FFF8DC	;
-    font-family: "Rajdhani", sans-serif;
+  background: linear-gradient(236.85deg, #eec2db 27.26%, #b2e7ee 96.03%);
+  font-family: "Rajdhani", sans-serif;
 }
 
 ul {
