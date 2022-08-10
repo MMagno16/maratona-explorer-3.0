@@ -13,5 +13,7 @@ E aprendendo os pilares pra construir uma jornada na programação.
 Na aula 3, inserimos os toques finais no CSS e colocamos o nosso site no mundo, através do Netlify de forma super simples.
 Agora com o projeto em mãos, estamos um passo mais próximo do mercado de programação.
 
+https://teal-pika-93972d.netlify.app
+
 
 
